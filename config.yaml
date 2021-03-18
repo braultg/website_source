@@ -1,0 +1,5 @@
+theme: "hugo-PaperMod"
+baseURL: https://braultg.github.io/
+publishDir: ../braultg.github.io
+languageCode: en-us
+title: My New Hugo Site
